@@ -1,0 +1,41 @@
+# Build output
+/target/
+/bin/
+
+# Eclipse / IDE
+.settings/
+.metadata/
+*.launch
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Maven backup files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java / compiled classes
+*.class
+
+# Optional local config
+*.env
+*.local
+
+# Project data exports
+*.csv

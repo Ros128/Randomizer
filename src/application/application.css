@@ -1,0 +1,14 @@
+/* Randomizzatore.fxml CSS */
+
+/* Add your CSS styles here */
+.button {
+    -fx-background-color: Cyan;
+    -fx-text-fill: #000000;
+    -fx-border-color: black;
+    
+}
+.button:hover {
+    -fx-background-color: #457df5;
+    -fx-text-fill: #000000;  
+}
+
